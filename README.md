@@ -1,19 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritik Banger</h1>
+<h3 align="center">A passionate JavaScript developer from India :)</h3>
 
-<!--
-**ritikbanger/ritikbanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Skills 
+![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![l](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![l](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next-dot-js&logoColor=61DAFB)
+![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  👨🏻‍💻 About Me 
+- 🔭 I write tech blogs at **The Tech Infinite**
+- 💬 More info about my blogs: https://thetechinfinite.com
+- 💬 Ask me about **ReactJS, Typescript, ExpressJS, NodeJS, JavaScript, Python, Java, and about C++**
+- 📫 How to reach me **hrithikbanger@gmail.com**
 <div align="center">
   <a href="https://github.com/ritikbanger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritikbanger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
