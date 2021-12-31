@@ -11,6 +11,9 @@
 ![l](https://img.shields.io/badge/Express.js-E34F26?style=for-the-badge&logo=express-dot-js&logoColor=white)
 ![l](https://img.shields.io/badge/Java-ff726f?style=for-the-badge&logo=java&logoColor=white)
 ![l](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=yellow)
+![l](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white)
+![l](https://img.shields.io/badge/shopify-green?style=for-the-badge&logo=shopify&logoColor=white)
+![l](https://img.shields.io/badge/seo-blue?style=for-the-badge)
 ![l](https://img.shields.io/badge/ubuntu-557C94?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ###  👨🏻‍💻 About Me 
