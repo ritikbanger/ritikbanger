@@ -20,7 +20,7 @@
 - 🔭 I write tech blogs at **The Tech Infinite**
 - 💬 More info about my blogs: https://thetechinfinite.com
 - 💬 Ask me about **ReactJS, Typescript, ExpressJS, NodeJS, JavaScript, Python, Java, and about C++**
-- 📫 How to reach me **hrithikbanger@gmail.com**
+- 📫 How to reach me **ritikbanger.dev@gmail.com**
 <div align="center">
   <a href="https://github.com/ritikbanger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritikbanger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
